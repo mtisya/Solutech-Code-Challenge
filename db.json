@@ -1,0 +1,57 @@
+{
+  "customers": [
+    {
+      "id": 1,
+      "company_name": "My e Company",
+      "contact_firstname": "Aiden",
+      "contact_lastname": "Kivaki",
+      "contact_email": "Aiden@awesome.com",
+      "acquired_on": "2023-04-03",
+      "customer_status": "inactive"
+    },
+    {
+      "id": 3,
+      "company_name": "Company xYZ",
+      "contact_firstname": "Tim",
+      "contact_lastname": "Hane",
+      "contact_email": "thane@coxyz.com",
+      "acquired_on": "2020-12-03",
+      "customer_status": "active"
+    },
+    {
+      "id": 4,
+      "company_name": "Video Production Consulting",
+      "contact_firstname": "Miriam",
+      "contact_lastname": "Doe",
+      "contact_email": "mdoe@vidprod.com",
+      "acquired_on": "2020-07-05",
+      "customer_status": "inactive"
+    },
+    {
+      "id": 5,
+      "company_name": "Code Writers",
+      "contact_firstname": "Jill",
+      "contact_lastname": "Wade",
+      "contact_email": "jwade@codewrit.com",
+      "acquired_on": "2020-04-03",
+      "customer_status": "active"
+    },
+    {
+      "contact_firstname": "Sammy",
+      "contact_lastname": "Mutisya",
+      "contact_email": "samtish2010@gmail.com",
+      "company_name": "Software Development",
+      "acquired_on": "2023-04-19",
+      "customer_status": "active",
+      "id": 6
+    },
+    {
+      "contact_firstname": "Kawembe",
+      "contact_lastname": "Kimanzi",
+      "contact_email": "Kawembe@gmail.com",
+      "company_name": "Software Development",
+      "acquired_on": "2023-04-19",
+      "id": 7
+    }
+  ]
+}
